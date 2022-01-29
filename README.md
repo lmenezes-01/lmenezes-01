@@ -21,7 +21,6 @@
 <img align="right" width="250" height="300" style="border-radius:100px;" src="https://user-images.githubusercontent.com/75770552/138020970-bbed057b-bd45-4cd1-9cfb-c00cb5b0f20f.jpg" />
 <p> - 👨‍💻 Junior Data Analyst. </p>
 <p> - 👨‍🎓 Student of Information Systems, I am currently attending the 7th semester. </p>
-<p> - 🎯 Interest: Data analysis. </p>
   
 </div>
 
