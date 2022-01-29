@@ -35,12 +35,9 @@
 
 </div>
 
-## My contats :iphone:
+## My contats :
 
 <p align="center">
-    <a href="https://github.com/lmenezes-01">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/lmenezes-01">
-    </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:lucasalmenezes2001@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lucasalmenezes2001@gmail.com">
