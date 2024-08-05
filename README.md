@@ -43,7 +43,7 @@
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lucasalmenezes2001@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="www.linkedin.com/in/lucas-henrique-ti/](https://www.linkedin.com/in/lucas-menezes-data/">
+    <a href="[www.linkedin.com/in/lucas-henrique-ti/](https://www.linkedin.com/in/lucas-menezes-data/](https://www.linkedin.com/in/lucas-menezes-data/)">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/lucas-henrique-ti/">
     </a>
 </p>
