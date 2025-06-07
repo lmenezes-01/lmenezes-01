@@ -20,7 +20,7 @@
 <div style="display: inline_block"  >
 
 <p> - 👨‍💻  Senior Data Analyst. </p>
-<p> - 👨‍🎓  Formations: Information Systems, Pós Graduate Data Science e MBA Data Science & IA. 
+<p> - 👨‍🎓  Formations: Information Systems, Pós Graduate Data Science and MBA Data Science & IA. 
 </p>
   
 </div>
